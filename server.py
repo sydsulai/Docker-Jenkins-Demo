@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "welcome to simplilearn from main branch\n"
+MESSAGE = "welcome to simplilearn again to check docker images deletion logic\n"
 
 app = Flask(__name__)
 
